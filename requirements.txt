@@ -12,7 +12,7 @@ chardet==3.0.4
 coinbase==2.0.6
 coinmarketcap==4.1.1
 constantly==15.1.0
-cryptography==2.1.4
+cryptography==3.2
 cycler==0.10.0
 dateparser==0.6.0
 decorator==4.1.2
