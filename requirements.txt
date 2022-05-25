@@ -55,7 +55,7 @@ pycparser==2.18
 pycrypto==2.6.1
 PyGithub==1.35
 Pygments==2.2.0
-PyJWT==1.5.3
+PyJWT==2.4.0
 pyOpenSSL==17.5.0
 pyparsing==2.2.0
 python-binance==0.6.1
